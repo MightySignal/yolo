@@ -1,2 +1,3 @@
 # yolo
-That's the motto.
+
+![yolo](http://i.imgur.com/0qfVPki.gif)
